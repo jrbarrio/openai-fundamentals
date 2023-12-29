@@ -10,6 +10,7 @@ jupyter = "*"
 numpy = "*"
 matplotlib = "*"
 scikit-learn = "*"
+scipy = "*"
 
 [dev-packages]
 
