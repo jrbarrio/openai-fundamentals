@@ -7,12 +7,14 @@ name = "pypi"
 openai = "*"
 python-dotenv = "*"
 jupyter = "*"
+scikit-learn = "*"
 numpy = "*"
 matplotlib = "*"
-scikit-learn = "*"
 scipy = "*"
+chromadb = "*"
+tiktoken = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.11"
