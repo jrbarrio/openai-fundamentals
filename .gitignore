@@ -2,3 +2,6 @@
 .python-version
 
 */chroma/
+
+**/training_data.jsonl
+**/validation_data.jsonl

@@ -13,6 +13,7 @@ matplotlib = "*"
 scipy = "*"
 chromadb = "*"
 tiktoken = "*"
+pandas = "*"
 
 [dev-packages]
 
